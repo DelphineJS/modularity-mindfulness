@@ -39,11 +39,11 @@ a {
 }
 
 .grey {
-  color: #e2e2e2;
+  color: gray;
 }
 
 .red-line {
-  border-bottom: 1.5px solid #b64c6e;
+  border-bottom: 1.5px solid #d89fb0;
 }
 
 .red-line:hover {
