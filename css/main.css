@@ -33,14 +33,17 @@ a {
 }
 
 .red-line {
-  border-bottom: 2px solid #b64c6e;
+  border-bottom: 1.5px solid #d89fb0;
 }
 
 @media only screen and (min-width: 60em) {
+
   .logo {
     text-align: left;
   }
-}
 
+  .subhead {
+    max-width: 38em;
+  }
 
 }
