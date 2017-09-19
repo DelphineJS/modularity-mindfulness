@@ -7,9 +7,18 @@ i {
 }
 
 .red {
-  color: #860927;
+  color: #b64c6e;
 }
 
 .line {
   border-bottom: 2px solid #e2e2e2;
+}
+
+.btn-ghost {
+  color: #b64c6e;
+  border: 2px solid #d89fb0;
+}
+
+a {
+  text-decoration: none;
 }
