@@ -31,3 +31,16 @@ a {
 .grey {
   color: #e2e2e2;
 }
+
+.red-line {
+  border-bottom: 2px solid #b64c6e;
+}
+
+@media only screen and (min-width: 60em) {
+  .logo {
+    text-align: left;
+  }
+}
+
+
+}
