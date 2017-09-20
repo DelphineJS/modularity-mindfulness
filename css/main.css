@@ -15,12 +15,12 @@ i {
 }
 
 .line {
-  border-bottom: 2px solid #e2e2e2;
+  border-bottom: 1.5px solid #e2e2e2;
 }
 
 .line-both {
-  border-bottom: 2px solid #e2e2e2;
-  border-top: 2px solid #e2e2e2;
+  border-bottom: 1.5px solid #e2e2e2;
+  border-top: 1.5px solid #e2e2e2;
 }
 
 .btn-ghost {
