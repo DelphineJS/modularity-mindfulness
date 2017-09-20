@@ -18,6 +18,10 @@ i {
   border-bottom: 1.5px solid #e2e2e2;
 }
 
+.line-top {
+  border-top: 1.5px solid #e2e2e2;
+}
+
 .line-both {
   border-bottom: 1.5px solid #e2e2e2;
   border-top: 1.5px solid #e2e2e2;
